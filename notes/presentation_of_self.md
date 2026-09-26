@@ -1,0 +1,1 @@
+Goffman (The Presentation of Self, 1959) gives you the cleanest dramaturgical version: front stage vs. back stage. Belonging is front stage; being known is back stage.

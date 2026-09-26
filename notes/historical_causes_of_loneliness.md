@@ -1,0 +1,1 @@
+the Church and the plague dissolved the kin group → the Tudor state dissolved the corporate middle → politeness made reserve a status ideal → the public schools and empire hardened it into a brand → the Reformation had already removed the cathartic institutions → and market sociability supplied belonging without intimacy → until even the belonging was dismantled. 

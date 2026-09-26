@@ -1,0 +1,3 @@
+Arendt is the keystone for your "philosophical but political" demand. Her distinction between solitude (the two-in-one, thinking) and loneliness (being abandoned by the world) is essential, and so is her notion of the common world — the shared in-between that both separates and connects us. Britain, on this reading, has a depleted common world, which forces people into either fusion (partner, family, tribe) or isolation. Post-breakup, you lost your fusion and discovered there was no common world to fall back into. Her claim that loneliness is the ground of totalitarian politics is the bridge to the political register you want.
+
+Investigate what she means by "loneliness is the ground of totalitarian politics".

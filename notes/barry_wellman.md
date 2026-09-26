@@ -1,0 +1,1 @@
+Barry Wellman ("The Community Question," 1979; Networked, 2012) argues community was not lost but liberated into personal networks — "networked individualism," which is arguably loneliness's native habitat: lots of connection, no shared world.

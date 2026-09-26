@@ -1,0 +1,1 @@
+Honneth (The Struggle for Recognition, 1995) gives you the best three-tier structure: recognition in love (intimate), rights (legal), and solidarity (social) — Britain historically over-supplied the latter two and under-supplied the first.

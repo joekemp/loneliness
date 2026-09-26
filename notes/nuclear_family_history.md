@@ -1,0 +1,1 @@
+Peter Laslett and the Cambridge Group proved with parish registers that English households were overwhelmingly nuclear centuries before industrialisation, and Ann Kussmaul's Servants in Husbandry showed the distinctive English "life-cycle servant": young people left home to serve in other households before marrying. The family was never the economic unit. Individuals were. 

@@ -1,0 +1,1 @@
+Bauman (Liquid Modernity, Liquid Love) and Byung-Chul Han (The Expulsion of the Other) for the contemporary diagnosis: relationships as consumer goods, connection without commitment, and the disappearance of the Other who resists and thereby constitutes the self. Han is almost tailor-made for a British white paper.
