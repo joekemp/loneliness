@@ -1,6 +1,6 @@
 # References
 
-*Numbered works cited for `letter_to_holger.md`, which refers to them only by number. The fuller, themed working bibliography is in `bibliography.md`.*
+*Numbered works cited for `letter_to_holger.md`, which refers to them only by number.*
 
 ## I. Loneliness, friendship, and the common world
 
@@ -143,3 +143,9 @@
 ## XII. Leisure and consumption
 
 106. Foley, Michael. *Isn't This Fun? Investigating the Serious Business of Enjoying Ourselves*. London: Simon & Schuster, 2016.
+
+## XIII. Disagreeing and repairing
+
+107. Atkins, Ros. *The Art of Explanation: How to Communicate with Clarity and Confidence*. London: Wildfire, 2023.
+108. Minson, Julia. *How to Disagree Better*. London: Orion Ignite, 2026.
+109. Stone, Douglas, Bruce Patton, and Sheila Heen. *Difficult Conversations: How to Discuss What Matters Most*. New York: Viking, 1999.
