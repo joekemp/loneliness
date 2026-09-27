@@ -1,6 +1,6 @@
 # References
 
-*Numbered works cited for `letter_to_holger.md`, which refers to them only by number.*
+*Numbered works cited for `letter_to_holger.md`, which refers to them only by number. A few entries are no longer cited by the current letter; they are kept to preserve the numbering and as a record of the argument's sources.*
 
 ## I. Loneliness, friendship, and the common world
 
@@ -149,3 +149,20 @@
 107. <a id="ref-107"></a>Atkins, Ros. *The Art of Explanation: How to Communicate with Clarity and Confidence*. London: Wildfire, 2023.
 108. <a id="ref-108"></a>Minson, Julia. *How to Disagree Better*. London: Orion Ignite, 2026.
 109. <a id="ref-109"></a>Stone, Douglas, Bruce Patton, and Sheila Heen. *Difficult Conversations: How to Discuss What Matters Most*. New York: Viking, 1999.
+
+## XIV. Disclosure and intimacy
+
+110. <a id="ref-110"></a>Altman, Irwin, and Dalmas A. Taylor. *Social Penetration: The Development of Interpersonal Relationships*. New York: Holt, Rinehart and Winston, 1973.
+111. <a id="ref-111"></a>Reis, Harry T., and Phillip Shaver. "Intimacy as an Interpersonal Process." In *Handbook of Personal Relationships*, edited by Steve Duck. Chichester: Wiley, 1988.
+112. <a id="ref-112"></a>Laurenceau, Jean-Philippe, Lisa Feldman Barrett, and Paula R. Pietromonaco. "Intimacy as an Interpersonal Process: The Importance of Self-Disclosure, Partner Disclosure, and Perceived Partner Responsiveness in Interpersonal Exchanges." *Journal of Personality and Social Psychology* 74, no. 5 (1998): 1238–1251.
+113. <a id="ref-113"></a>Brown, Brené. *Daring Greatly*. New York: Gotham Books, 2012.
+
+## XV. Bad faith, identity, and attribution
+
+114. <a id="ref-114"></a>Sartre, Jean-Paul. *Being and Nothingness*. 1943. Trans. Hazel E. Barnes. New York: Philosophical Library, 1956.
+115. <a id="ref-115"></a>Sartre, Jean-Paul. *Existentialism Is a Humanism*. 1946. Trans. Carol Macomber. New Haven: Yale University Press, 2007.
+116. <a id="ref-116"></a>Hall, Evelyn Beatrice (as S. G. Tallentyre). *The Friends of Voltaire*. London: John Murray, 1906.
+
+## XVI. Germany
+
+117. <a id="ref-117"></a>Federal Ministry for Family Affairs, Senior Citizens, Women and Youth (BMFSFJ). *Einsamkeitsbarometer*. Berlin, 2024.
